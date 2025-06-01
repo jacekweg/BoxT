@@ -1,0 +1,6 @@
+dataset_name: Random_15_000
+max_examples: 15000
+mode: random
+splits: 0.8,0.1,0.1
+error_rate: 0.0
+num_concepts: 15

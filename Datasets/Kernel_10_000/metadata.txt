@@ -1,0 +1,6 @@
+dataset_name: Kernel_10_000
+max_examples: 10000
+mode: kernel
+splits: 0.8,0.1,0.1
+error_rate: 0.0
+files_dir: DataGen/

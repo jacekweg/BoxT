@@ -1,0 +1,41 @@
+{
+  "fruit": {
+    "parent": "food",
+    "inclusion_degree": 0.85
+  },
+  "food": {
+    "parent": null
+  },
+  "mammal": {
+    "parent": "animal",
+    "inclusion_degree": 0.9
+  },
+  "marine_mammal": {
+    "parent": "mammal",
+    "inclusion_degree": 1.0
+  },
+  "animal": {
+    "parent": null
+  },
+  "bird": {
+    "parent": "animal",
+    "inclusion_degree": 1.0
+  },
+  "fish": {
+    "parent": "animal",
+    "inclusion_degree": 0.8
+  },
+  "mythical_creature": {
+    "parent": null
+  },
+  "celestial_body": {
+    "parent": null
+  },
+  "jewelry": {
+    "parent": "accessory",
+    "inclusion_degree": 0.35
+  },
+  "accessory": {
+    "parent": null
+  }
+}

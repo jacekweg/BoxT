@@ -1,0 +1,42 @@
+{
+  "c_0": {
+    "parent": null,
+    "inclusion_degree": null
+  },
+  "c_1": {
+    "parent": null,
+    "inclusion_degree": null
+  },
+  "c_2": {
+    "parent": "c_1",
+    "inclusion_degree": 0.88
+  },
+  "c_3": {
+    "parent": "c_0",
+    "inclusion_degree": 0.96
+  },
+  "c_4": {
+    "parent": null,
+    "inclusion_degree": null
+  },
+  "c_5": {
+    "parent": null,
+    "inclusion_degree": null
+  },
+  "c_6": {
+    "parent": "c_5",
+    "inclusion_degree": 0.85
+  },
+  "c_7": {
+    "parent": null,
+    "inclusion_degree": null
+  },
+  "c_8": {
+    "parent": null,
+    "inclusion_degree": null
+  },
+  "c_9": {
+    "parent": "c_8",
+    "inclusion_degree": 0.53
+  }
+}

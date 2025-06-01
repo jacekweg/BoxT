@@ -1,0 +1,13 @@
+{
+  "apple": "fruit",
+  "egg": "food",
+  "dog": "mammal",
+  "whale": "marine_mammal",
+  "worm": "animal",
+  "eagle": "bird",
+  "shark": "fish",
+  "dragon": "mythical_creature",
+  "sun": "celestial_body",
+  "ring": "jewelry",
+  "watch": "accessory"
+}
